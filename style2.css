@@ -1,0 +1,34 @@
+.my-projects {
+	padding: 10px;
+	text-align: center;
+	color: white;
+	font-size: 45px;
+
+}
+
+
+#projects {
+	background: url(cover2.jpg);
+	background-size: cover;
+}
+
+#projects table {
+	
+	padding: 10px;
+
+}
+
+#projects td {
+	background: white;
+	border: 5px solid transparent;
+	font-size: 25px;
+	padding: 15px;
+}
+
+#contacts {
+	background: lightpink;
+	padding: 20px;
+	text-align: center;
+	font-size: 22px;
+
+}
